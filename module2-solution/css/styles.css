@@ -56,14 +56,16 @@ h1 {
 }
 
 .name1 {
-  background-color: #ffb6c1c7;
+  color: blanchedalmond;
+  background-color: #ff7388;
 }
 
 .name2 {
   color: white;
-  background-color: #ff0000b2;
+  background-color: #bd0000;
 }
 .name3{
+  color: blanchedalmond;
   background-color: #f8cd57;
 }
 
