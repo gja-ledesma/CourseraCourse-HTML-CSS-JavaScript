@@ -1,4 +1,4 @@
-# HTML, CSS, and JavaScript for Web Developers (Coursera course)
+# coursera-html-css-javascript
 Personal repository for all assignments in this course.
 
 ## Assignments
